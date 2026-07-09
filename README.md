@@ -1,4 +1,4 @@
-# SWE-69-1 Lab01
+# lab01
 
 **ผู้จัดทำ:** Kanniti Yaso (ECP3N) 67332110223-9
 
